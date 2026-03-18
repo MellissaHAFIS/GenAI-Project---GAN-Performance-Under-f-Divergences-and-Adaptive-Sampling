@@ -1,0 +1,17 @@
+numpy
+scikit-learn
+scipy
+tqdm
+torch
+torchvision
+# We will create the virtual env with Python 3.10
+# brew update  to update Homebrew
+# brew install python@3.10
+# verify the installation with brew list | grep python
+# Create a virtual environment with Python 3.10
+# python3.10 -m venv venv
+# Activate the virtual environment
+# source venv/bin/activate
+# Install the required packages
+# pip install -r requirements.txt
+# git checkout mellissa git merge your-branch-name

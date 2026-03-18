@@ -1,0 +1,9 @@
+venv/
+
+# Datasets and generated samples
+data/
+folder_of_samples/
+
+# Python
+__pycache__/
+*.pyc
